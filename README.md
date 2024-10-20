@@ -1,2 +1,31 @@
 # Advanced computational Methods in Physics 2024: Quantum many body and tensor networks
-Jupyter-notebooks for the course
+Jupyter-notebooks for the course [Advanced computational Methods in Physics 2024](https://mycourses.aalto.fi/course/view.php?id=45218&section=1): Quantum many body and tensor networks at Aalto University (2024).
+
+This repository contains the Jupyter notebooks associated to the lectures on tensor networks and quantum many body in the course.
+
+## Installation
+The Jupyter-notebooks require that you install the folloqing two libraries
+
+- [pyqula](https://github.com/joselado/pyqula): Session 1
+- [dmrgpy](https://github.com/joselado/dmrgpy): Sessions 2,3,4,5
+
+Check the link of each library to know how to install it
+
+# Jupyter notebooks for each session
+Each each session has a Jupyter notebook showing how to reproduce some of the calculations discussed in the lectures. The notebooks also have questions that require you to modify the examples in order to answer them.
+
+- Session 1: Mean field and classical magnetism
+- [Session 2: Many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/quantum_magnetism.ipynb)
+- Session 3: Many-body correlated fermionic systems
+- [Session 4: Tensor networks for many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/mps_quantum_magnets.ipynb)
+- Session 5: Tensor netowrks for many-body correlated fermionic systems
+
+
+# Lecture recordings
+You can find the recordings of the video lectures in the links below
+- Session 1: Mean field and classical magnetism
+- [Session 2: Many-body quantum magnets](https://youtu.be/QI3EhsFmkAs )
+- Session 3: Many-body correlated fermionic systems
+- [Session 4: Tensor networks for many-body quantum magnets]( https://youtu.be/VGZlR3KEIgE)
+- Session 5: Tensor netowrks for many-body correlated fermionic systems
+
