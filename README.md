@@ -26,6 +26,6 @@ You can find the recordings of the video lectures in the links below
 - Session 1: Mean field and classical magnetism
 - [Session 2: Many-body quantum magnets](https://youtu.be/QI3EhsFmkAs )
 - Session 3: Many-body correlated fermionic systems
-- [Session 4: Tensor networks for many-body quantum magnets]( https://youtu.be/VGZlR3KEIgE)
-- Session 5: Tensor netowrks for many-body correlated fermionic systems
+- [Session 4: Tensor networks for many-body quantum magnets](https://youtu.be/VGZlR3KEIgE)
+- Session 5: Tensor networks for many-body correlated fermionic systems
 
