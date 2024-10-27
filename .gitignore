@@ -1,2 +1,4 @@
 .mpsfolder
 .ipynb_checkpoints
+.OUT
+.pkl
