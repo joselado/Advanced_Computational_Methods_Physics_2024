@@ -14,7 +14,7 @@ Check the link of each library to know how to install it
 # Jupyter notebooks for each session
 Each each session has a Jupyter notebook showing how to reproduce some of the calculations discussed in the lectures. The notebooks also have questions that require you to modify the examples in order to answer them.
 
-- [Session 1: Many-body interactions and classical symmetry broken magnetism](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/quantum_magnetism.ipynb)
+- [Session 1: Many-body interactions and classical symmetry broken magnetism](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/classical_magnetism.ipynb)
 - [Session 2: Many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/quantum_magnetism.ipynb)
 - [Session 3: Many-body correlated fermionic systems](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/quantum_interacting_fermions.ipynb)
 - [Session 4: Tensor networks for many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/jupyter-notebooks/mps_quantum_magnets.ipynb)
