@@ -27,7 +27,7 @@ You can find the recordings of the video lectures in the links below
 - [Session 2: Many-body quantum magnets](https://youtu.be/QI3EhsFmkAs )
 - [Session 3: Many-body correlated fermionic systems](https://youtu.be/e-v1kEi91jg)
 - [Session 4: Tensor networks for many-body quantum magnets](https://youtu.be/VGZlR3KEIgE)
-- Session 5: Tensor networks for many-body correlated fermionic systems
+- [Session 5: Tensor networks for many-body correlated fermionic systems](https://youtu.be/pp5-t_dCtg0)
 
 
 # Lecture slides
@@ -36,4 +36,4 @@ You can find the recordings of the video lectures in the links below
 - [Session 2: Many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/slides/quantum_magnetism.pdf)
 - [Session 3: Many-body correlated fermionic systems](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/slides/many_body_fermions.pdf)
 - [Session 4: Tensor networks for many-body quantum magnets](https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/slides/mps_spin_chains.pdf)
-- Session 5: Tensor networks for many-body correlated fermionic systems
+- [Session 5: Tensor networks for many-body correlated fermionic systems]((https://github.com/joselado/Advanced_Computational_Methods_Physics_2024/blob/main/slides/mps_fermionic.pdf))
